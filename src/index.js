@@ -6,6 +6,7 @@ import 'mdbreact/dist/css/mdb.css';
 import "./assets/scss/style.scss";
 import App from '../src/components/App.js';
 import { HashRouter as Router } from 'react-router-dom';
+import './i18n';
 
 
 ReactDOM.render(
